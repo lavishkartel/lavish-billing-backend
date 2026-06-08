@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lavish Legacy</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="page-shell">
+    <section class="hero-panel">
+      <div class="brand-mark">LAVISH LEGACY</div>
+      <h1>VOLUME 01</h1>
+      <p>High-end tactical streetwear for the digital sovereign. Limited drop, direct checkout, and on-chain settlement.</p>
+    </section>
+
+    <section class="catalog-section">
+      <h2>Catalog</h2>
+      <div class="catalog-grid" id="productGrid"></div>
+    </section>
+
+    <section class="detail-panel">
+      <div class="detail-card">
+        <h2>Selected drop</h2>
+        <p id="productName">Select a product to begin.</p>
+        <p id="productDescription"></p>
+        <p class="price" id="productPrice"></p>
+        <div class="button-row">
+          <button id="fiatCheckoutBtn" class="button button-primary" disabled>Buy with Card</button>
+          <button id="walletCheckoutBtn" class="button button-secondary" disabled>Authorize Wallet Order</button>
+        </div>
+      </div>
+
+      <div class="detail-card crypto-card">
+        <h2>On-chain payment</h2>
+        <p id="cryptoStatus">Connect your wallet and authorize an order to begin.</p>
+        <p><strong>Send to:</strong> <span id="cryptoAddress">—</span></p>
+        <p><strong>Amount:</strong> <span id="cryptoAmount">—</span> <span id="cryptoToken">ETH</span></p>
+        <p><strong>Network:</strong> Arbitrum</p>
+        <div class="button-row">
+          <button id="cryptoConnectBtn" class="button button-tertiary">Connect Wallet</button>
+          <button id="cryptoPayBtn" class="button button-primary" disabled>Send On-Chain Payment</button>
+        </div>
+        <div class="status-row">
+          <button id="checkStatusBtn" class="button button-tertiary">Refresh status</button>
+          <span class="status-badge" id="statusBadge">idle</span>
+        </div>
+        <p id="walletStatus" class="wallet-status"></p>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

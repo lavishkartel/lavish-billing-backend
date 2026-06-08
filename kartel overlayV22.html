@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KARTEL MASTER OVERLAY v1.11</title>
+    <style>
+        body {
+            background-color: #050505;
+            color: #00ffcc;
+            font-family: 'Courier New', Courier, monospace;
+            margin: 0;
+            padding: 20px;
+            overflow: hidden;
+        }
+        .header {
+            border-bottom: 1px solid #00ffcc;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        .panel {
+            border: 1px solid #333;
+            background: rgba(0, 255, 204, 0.02);
+            padding: 15px;
+            border-radius: 4px;
+            box-shadow: inset 0 0 10px rgba(0,255,204,0.05);
+        }
+        .panel h2 {
+            margin-top: 0;
+            font-size: 14px;
+            color: #fff;
+            letter-spacing: 2px;
+            border-bottom: 1px dashed #555;
+            padding-bottom: 5px;
+        }
+        .data-line {
+            font-size: 12px;
+            margin: 8px 0;
+            display: flex;
+            justify-content: space-between;
+        }
+        .status-ok { color: #00ffcc; }
+        .status-warn { color: #ffeb3b; }
+        .status-active { color: #ff0055; animation: blink 1.5s infinite; }
+        
+        @keyframes blink {
+            0% { opacity: 1; }
+            50% { opacity: 0.3; }
+            100% { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div>SYS_ID: KARTEL_MASTER_OVERLAY_v1.11 // PHASE_II_ACTIVE</div>
+        <div id="clock">00:00:00</div>
+    </div>
+
+    <div class="grid-container">
+        <!-- Asset Pipeline Panel -->
+        <div class="panel">
+            <h2>[ 5D ASSET DEPLOYMENT ]</h2>
+            <div class="data-line"><span>Lavish Legacy Baseline:</span> <span class="status-ok">100/100 SECURED</span></div>
+            <div class="data-line"><span>Mesh Optimization:</span> <span class="status-ok">AUTO-BAKE ENABLED</span></div>
+            <div class="data-line"><span>Collision Physics:</span> <span class="status-warn">STANDBY</span></div>
+            <div class="data-line"><span>Visual-Sonic Sync:</span> <span class="status-active">RENDERING...</span></div>
+        </div>
+
+        <!-- Telemetry & Commerce Panel -->
+        <div class="panel">
+            <h2>[ FINANCIAL TELEMETRY ]</h2>
+            <div class="data-line"><span>Stripe Gateway:</span> <span class="status-ok">LIVE_LISTENING</span></div>
+            <div class="data-line"><span>Custom Ledger Sync:</span> <span class="status-ok">VERIFIED</span></div>
+            <div class="data-line"><span>Node.js Webhooks:</span> <span class="status-ok">ROUTING</span></div>
+            <div class="data-line"><span>Last Transaction:</span> <span>-- NULL --</span></div>
+        </div>
+
+        <!-- Energy Loop Panel -->
+        <div class="panel">
+            <h2>[ CLOSED-LOOP RENEWAL SYSTEM ]</h2>
+            <div class="data-line"><span>System Friction:</span> <span class="status-ok">0.02% (NET-ZERO)</span></div>
+            <div class="data-line"><span>Kinetic Routing:</span> <span class="status-ok">OPTIMAL</span></div>
+            <div class="data-line"><span>Automation Script Load:</span> <span class="status-ok">STABLE</span></div>
+        </div>
+
+        <!-- Audio Sync Panel -->
+        <div class="panel">
+            <h2>[ ORCHESTRAL FREQUENCY ]</h2>
+            <div class="data-line"><span>Cinematic Strings:</span> <span class="status-ok">LOCKED</span></div>
+            <div class="data-line"><span>Vocal Automation:</span> <span class="status-ok">LOCKED</span></div>
+            <div class="data-line"><span>Master Output Level:</span> <span class="status-active">PEAK ALIGNMENT</span></div>
+        </div>
+    </div>
+
+    <script>
+        // Live Clock Script
+        function updateClock() {
+            const now = new Date();
+            const timeString = now.toLocaleTimeString('en-US', { hour12: false });
+            document.getElementById('clock').innerText = "LOCAL_TIME: " + timeString + " CDT";
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+    </script>
+</body>
+</html>

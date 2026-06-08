@@ -1,0 +1,19 @@
+# Security & Credentials
+.env
+.env.production
+.env.local
+
+# Environment Binaries & Packaging
+node.zip
+nodejs/
+node_modules/
+
+# Build and Compilation Outputs
+dist/
+
+# Python Cache Clutter
+__pycache__/
+*.pyc
+
+# IDE Configuration
+.vscode/

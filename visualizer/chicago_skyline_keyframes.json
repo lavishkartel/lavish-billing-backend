@@ -1,0 +1,741 @@
+{
+    "meta": {
+        "track_name": "orchestral_hiphop_ep_master.wav",
+        "fps": 30,
+        "total_frames": 61
+    },
+    "keyframes": [
+        {
+            "frame": 0,
+            "timestamp_sec": 0.0,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.0,
+                "holographic_l_tracks_speed": 1.0,
+                "skyline_glitch_active": 0,
+                "ambient_neon_brightness": 1.0,
+                "volumetric_mist_density": 0.8,
+                "hue_shift_deg": 45
+            }
+        },
+        {
+            "frame": 1,
+            "timestamp_sec": 0.033,
+            "environment_modifiers": {
+                "willis_tower_pulse": 1.0,
+                "holographic_l_tracks_speed": 3.0,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.21739999949932098,
+                "volumetric_mist_density": 0.33,
+                "hue_shift_deg": 9
+            }
+        },
+        {
+            "frame": 2,
+            "timestamp_sec": 0.067,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 3,
+            "timestamp_sec": 0.1,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 4,
+            "timestamp_sec": 0.133,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 5,
+            "timestamp_sec": 0.167,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 6,
+            "timestamp_sec": 0.2,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 7,
+            "timestamp_sec": 0.233,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 8,
+            "timestamp_sec": 0.267,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 9,
+            "timestamp_sec": 0.3,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 10,
+            "timestamp_sec": 0.333,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 11,
+            "timestamp_sec": 0.367,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 12,
+            "timestamp_sec": 0.4,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 13,
+            "timestamp_sec": 0.433,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 14,
+            "timestamp_sec": 0.467,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 15,
+            "timestamp_sec": 0.5,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 16,
+            "timestamp_sec": 0.533,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 17,
+            "timestamp_sec": 0.567,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 18,
+            "timestamp_sec": 0.6,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 19,
+            "timestamp_sec": 0.633,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 20,
+            "timestamp_sec": 0.667,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 21,
+            "timestamp_sec": 0.7,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 22,
+            "timestamp_sec": 0.733,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 23,
+            "timestamp_sec": 0.767,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 24,
+            "timestamp_sec": 0.8,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 25,
+            "timestamp_sec": 0.833,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 26,
+            "timestamp_sec": 0.867,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 27,
+            "timestamp_sec": 0.9,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 28,
+            "timestamp_sec": 0.933,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 29,
+            "timestamp_sec": 0.967,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 30,
+            "timestamp_sec": 1.0,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 31,
+            "timestamp_sec": 1.033,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 32,
+            "timestamp_sec": 1.067,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 33,
+            "timestamp_sec": 1.1,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 34,
+            "timestamp_sec": 1.133,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 35,
+            "timestamp_sec": 1.167,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 36,
+            "timestamp_sec": 1.2,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 37,
+            "timestamp_sec": 1.233,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 38,
+            "timestamp_sec": 1.267,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 39,
+            "timestamp_sec": 1.3,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 40,
+            "timestamp_sec": 1.333,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 41,
+            "timestamp_sec": 1.367,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 42,
+            "timestamp_sec": 1.4,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 43,
+            "timestamp_sec": 1.433,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 44,
+            "timestamp_sec": 1.467,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 45,
+            "timestamp_sec": 1.5,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 46,
+            "timestamp_sec": 1.533,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 47,
+            "timestamp_sec": 1.567,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 48,
+            "timestamp_sec": 1.6,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 49,
+            "timestamp_sec": 1.633,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 50,
+            "timestamp_sec": 1.667,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 51,
+            "timestamp_sec": 1.7,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 52,
+            "timestamp_sec": 1.733,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 53,
+            "timestamp_sec": 1.767,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 54,
+            "timestamp_sec": 1.8,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 55,
+            "timestamp_sec": 1.833,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 56,
+            "timestamp_sec": 1.867,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 57,
+            "timestamp_sec": 1.9,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9455000162124634,
+                "holographic_l_tracks_speed": 2.89,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 58,
+            "timestamp_sec": 1.933,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.9520000219345093,
+                "holographic_l_tracks_speed": 2.9,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.0,
+                "volumetric_mist_density": 0.2,
+                "hue_shift_deg": 0
+            }
+        },
+        {
+            "frame": 59,
+            "timestamp_sec": 1.967,
+            "environment_modifiers": {
+                "willis_tower_pulse": 1.0,
+                "holographic_l_tracks_speed": 3.0,
+                "skyline_glitch_active": 1,
+                "ambient_neon_brightness": 0.21739999949932098,
+                "volumetric_mist_density": 0.33,
+                "hue_shift_deg": 9
+            }
+        },
+        {
+            "frame": 60,
+            "timestamp_sec": 2.0,
+            "environment_modifiers": {
+                "willis_tower_pulse": 0.0,
+                "holographic_l_tracks_speed": 1.0,
+                "skyline_glitch_active": 0,
+                "ambient_neon_brightness": 1.0,
+                "volumetric_mist_density": 0.8,
+                "hue_shift_deg": 45
+            }
+        }
+    ]
+}
