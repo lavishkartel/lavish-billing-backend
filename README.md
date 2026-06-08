@@ -42,4 +42,23 @@ The backend hosts a storefront at `/` with:
 
 ## Notes
 
-The crypto listener polls a custom RPC node and validates exact Arbitrum payments to the configured address.
+T# Lavish Billing Backend
+
+A high-performance billing and payment processing backend service.
+
+## 🛠 Tech Stack
+* **Language/Framework:** [e.g., Node.js/Express, Python/FastAPI, Go]
+* **Database:** [e.g., PostgreSQL, MongoDB]
+* **Authentication:** [e.g., JWT, OAuth2]
+
+## 🚀 Getting Started
+
+### Prerequisites
+Ensure you have the following installed:
+* [List your requirements, e.g., Node.js v20+, Docker]
+
+### Installation
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/lavishkartel/lavish-billing-backend.git](https://github.com/lavishkartel/lavish-billing-backend.git)
+   cd lavish-billing-backend
